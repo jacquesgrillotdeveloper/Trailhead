@@ -1,11 +1,20 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "JaxTrailhead",
+            "versionName": "Async Apex - Apex Scheduler",
+            "versionNumber": "182.5.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "JaxTrailhead": "0Ho460000004CDKCA2",
+        "JaxTrailhead@182.2.0-1": "04t460000027et8AAA",
+        "JaxTrailhead@182.5.0-1": "04t460000027eukAAA",
+        "JaxTrailhead@182.5.0-2": "04t460000027eupAAA"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "43.0"
 }
